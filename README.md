@@ -130,23 +130,7 @@ Located in the `Images/` folder, these plots help analyze the performance of:
 ### ✅ Result Prediction
 ![Result Page](static/result_page.jpg)
 
----
 
-## 👨‍💻 Author
-
-* **Uditya Narayan Tiwari** – [GitHub](https://github.com/udityamerit)
-
-## 🤝 Collaborators
-
-* **Kirti Pratihar** - [GitHub](https://github.com/KirtiPratihar)
-* **Rutuja Kumbhar** - [GitHub](https://github.com/RutujaKumbhar17)
-* **Pranjal** - [GitHub](https://github.com/PranjalMerit)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
@@ -154,13 +138,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Uditya Narayan Tiwari**
 
-🌐 [My Portfolio](https://udityanarayantiwari.netlify.app/)
+💼 [My LinkedIn](https://www.linkedin.com/in/sidra-hussain123/)
 
-💼 [My LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
+👨‍💻 [My GitHub](https://github.com/sidrah-star)
 
-👨‍💻 [My GitHub](https://github.com/udityamerit)
-
-📧 [Email Id](uditmerit@gmail.com)
+📧 [Email Id](hsidra10t@gmail.com)
 
 
 
