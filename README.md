@@ -54,7 +54,6 @@ The application offers:
 │ 
 ├── app.py
 ├── requirements.txt
-├── LICENSE
 ├── .gitignore
 └── README.md
 
