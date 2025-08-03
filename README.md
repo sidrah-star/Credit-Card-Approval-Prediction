@@ -136,7 +136,7 @@ Located in the `Images/` folder, these plots help analyze the performance of:
 
 ## 📧 Connect with Me
 
-**Uditya Narayan Tiwari**
+**Sidra Hussain**
 
 💼 [My LinkedIn](https://www.linkedin.com/in/sidra-hussain123/)
 
